@@ -16,3 +16,5 @@ Disclaimers:
 [2018/10/26](2018/October/26.md): 一篇贏得 ICCV 2017 PoseTrack 冠軍的論文，提出了 3D Mask R-CNN 來保留一部影片裡時間上的資訊。  
 
 [2018/10/31](2018/October/31.md): 一篇獲得 ECCV 2018 Best Paper Honorable Mention 的論文，提出了新的 Normalization 方法。
+
+[2018/11/18](2018/November/18.md): 提出一個 weight transfer function，將 detection head 的參數轉移給 segmentation head。
