@@ -3,3 +3,5 @@
 [《Detect-and-Track: Efficient Pose Estimation in Videos》](October/26.md)  
 
 [《Group Normalization》](October/31.md)
+
+[《Learning to Segment Everything》](November/18.md)
