@@ -18,3 +18,5 @@ Disclaimers:
 [2018/10/31](2018/October/31.md): 一篇獲得 ECCV 2018 Best Paper Honorable Mention 的論文，提出了新的 Normalization 方法。
 
 [2018/11/18](2018/November/18.md): 提出一個 weight transfer function，將 detection head 的參數轉移給 segmentation head。
+
+[2018/12/06](2018/December/6.md): 利用 visual data 來學習、模仿狗的行為，並且將新的 representation 應用到其他 task。
