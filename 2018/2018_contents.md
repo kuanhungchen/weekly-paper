@@ -5,3 +5,5 @@
 [《Group Normalization》](October/31.md)
 
 [《Learning to Segment Everything》](November/18.md)
+
+[《Who Let The Dogs Out? Modeling Dog Behavior From Visual Data》](December/6.md)
