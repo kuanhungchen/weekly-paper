@@ -20,3 +20,5 @@ Disclaimers:
 [2018/11/18](2018/November/18.md): 提出一個 weight transfer function，將 detection head 的參數轉移給 segmentation head。
 
 [2018/12/06](2018/December/6.md): 利用 visual data 來學習、模仿狗的行為，並且將新的 representation 應用到其他 task。
+
+[2018/12/20](2018/December/20.md): 一篇 CVPR 2018 Best Paper Award，將 task 間的關聯性量化，藉此找出最佳的 transfer learning policy。
