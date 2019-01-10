@@ -22,3 +22,5 @@ Disclaimers:
 [2018/12/06](2018/December/6.md): 利用 visual data 來學習、模仿狗的行為，並且將新的 representation 應用到其他 task。
 
 [2018/12/20](2018/December/20.md): 一篇 CVPR 2018 Best Paper Award，將 task 間的關聯性量化，藉此找出最佳的 transfer learning policy。
+
+[2019/01/10](2019/January/10.md): 2018 CVPR poster，試圖解決如何從一部足球比賽的影片 construct 出 3D 場景，提升觀賽體驗。
