@@ -24,3 +24,5 @@ Disclaimers:
 [2018/12/20](2018/December/20.md): 一篇 CVPR 2018 Best Paper Award，將 task 間的關聯性量化，藉此找出最佳的 transfer learning policy。
 
 [2019/01/10](2019/January/10.md): 2018 CVPR poster，試圖解決如何從一部足球比賽的影片 construct 出 3D 場景，提升觀賽體驗。
+
+[2019/03/05](2019/March/5.md): 2018 CVPR spotlight，來自 Mask R-CNN 作者群，探討人與物體之間的互動關係，使用 target localization。
