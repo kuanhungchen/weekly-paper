@@ -26,3 +26,5 @@ Disclaimers:
 [2019/01/10](2019/January/10.md): 2018 CVPR poster，試圖解決如何從一部足球比賽的影片 construct 出 3D 場景，提升觀賽體驗。
 
 [2019/03/05](2019/March/5.md): 2018 CVPR spotlight，來自 Mask R-CNN 作者群，探討人與物體之間的互動關係，使用 target localization。
+
+[2019/03/12](2019/March/12.md): 2019 CVPR oral，在 Mask R-CNN 的架構上提出 MaskIoU，可以更精確地衡量 mask quality。
