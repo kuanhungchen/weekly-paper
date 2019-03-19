@@ -28,3 +28,5 @@ Disclaimers:
 [2019/03/05](2019/March/5.md): 2018 CVPR spotlight，來自 Mask R-CNN 作者群，探討人與物體之間的互動關係，使用 target localization。
 
 [2019/03/12](2019/March/12.md): 2019 CVPR oral，在 Mask R-CNN 的架構上提出 MaskIoU，可以更精確地衡量 mask quality。
+
+[2019/03/19](2019/March/19.md): 來自 CMU 的一篇 2019 CVPR，利用 FSAF module 來取代傳統 FPN 中的 heuristic feature selection。
