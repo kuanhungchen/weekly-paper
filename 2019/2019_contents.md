@@ -7,3 +7,5 @@
 [《Mask Scoring R-CNN》](March/12.md)
 
 [《Feature Selective Anchor-Free Module for Single-Shot Object Detection》](March/19.md)
+
+[《Scale-Transferrable Object Detection》](March/30.md)

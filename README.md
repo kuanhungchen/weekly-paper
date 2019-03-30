@@ -30,3 +30,5 @@ Disclaimers:
 [2019/03/12](2019/March/12.md): 2019 CVPR oral，在 Mask R-CNN 的架構上提出 MaskIoU，可以更精確地衡量 mask quality。
 
 [2019/03/19](2019/March/19.md): 來自 CMU 的一篇 2019 CVPR，利用 FSAF module 來取代傳統 FPN 中的 heuristic feature selection。
+
+[2019/03/30](2019/March/30.md): 一篇 CVPR 2018 poster，提出 Scale-Transferrable Module 試圖做出更有效的 up-sampling。
