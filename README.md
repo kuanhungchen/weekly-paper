@@ -32,3 +32,5 @@ Disclaimers:
 [2019/03/19](2019/March/19.md): 來自 CMU 的一篇 2019 CVPR，利用 FSAF module 來取代傳統 FPN 中的 heuristic feature selection。
 
 [2019/03/30](2019/March/30.md): 一篇 CVPR 2018 poster，提出 Scale-Transferrable Module 試圖做出更有效的 up-sampling。
+
+[2019/05/07](2019/May/7.md): 一篇 NIPS 2018 poster，藉由可學習的 network 來增加 anchor 的自由度，並且能更佳適應不同的資料分佈。
