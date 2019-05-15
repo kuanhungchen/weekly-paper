@@ -34,3 +34,5 @@ Disclaimers:
 [2019/03/30](2019/March/30.md): 一篇 CVPR 2018 poster，提出 Scale-Transferrable Module 試圖做出更有效的 up-sampling。
 
 [2019/05/07](2019/May/7.md): 一篇 NIPS 2018 poster，藉由可學習的 network 來增加 anchor 的自由度，並且能更佳適應不同的資料分佈。
+
+[2019/05/14](2019/May/14.md): 藉由預測的 center point 來幫助偵測物體位置，在 MS-COCO 上取得了 one-stage 中最好的表現。

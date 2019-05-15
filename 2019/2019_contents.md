@@ -11,3 +11,5 @@
 [《Scale-Transferrable Object Detection》](March/30.md)
 
 [《MetaAnchor: Learning to Detect Objects with Customized Anchors》](May/7.md)
+
+[《CenterNet: Keypoint Triplets for Object Detection》](May/14.md)
